@@ -3,3 +3,8 @@ data/
 ./data/
 data
 /data
+myenv
+/myenv
+myenv/
+./myenv
+/myenv/
